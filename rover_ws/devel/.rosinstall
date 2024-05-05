@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/inaki/Stair-Climbing-Rover/rover_ws/devel/setup.sh
